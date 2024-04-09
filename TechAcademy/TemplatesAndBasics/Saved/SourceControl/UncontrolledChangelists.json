@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Thetr/OneDrive/Documents/GitHub/UnrealEngineProjects/TechAcademy/TemplatesAndBasics/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Thetr/OneDrive/Documents/GitHub/UnrealEngineProjects/TechAcademy/TemplatesAndBasics/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/M4/C2QG9QXDYRKQBRP7FNOE3B.uasset",
+				"C:/Users/Thetr/OneDrive/Documents/GitHub/UnrealEngineProjects/TechAcademy/TemplatesAndBasics/Content/StarterContent/Blueprints/BP_FinishLine.uasset",
+				"C:/Users/Thetr/OneDrive/Documents/GitHub/UnrealEngineProjects/TechAcademy/TemplatesAndBasics/Content/MainMenu.uasset",
+				"C:/Users/Thetr/OneDrive/Documents/GitHub/UnrealEngineProjects/TechAcademy/TemplatesAndBasics/Content/PauseMenu.uasset",
+				"C:/Users/Thetr/OneDrive/Documents/GitHub/UnrealEngineProjects/TechAcademy/TemplatesAndBasics/Content/Main.umap"
+			]
+		}
+	]
+}
